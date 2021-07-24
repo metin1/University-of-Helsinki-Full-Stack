@@ -1,10 +1,16 @@
 
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
+
 server-->browser: spa data
+
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
+
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa.js
+
 server-->browser: main.css
+
 server-->browser: spa.js
+
 
 note over browser:
 browser starts executing js-codes
