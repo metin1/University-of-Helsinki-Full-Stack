@@ -1,3 +1,5 @@
-Solutions of part 1 exercises to this folder, one app per folder
+## Anecdotes Solution
 
-eg. the project unicafe for exercises 1.6.-1.11 as folder unicafe
+Solutions of Anecdotes is in this folder
+### Live Solution
+[stackblitz live example here](https://stackblitz.com/edit/react-bmhkqd?file=src/App.js)

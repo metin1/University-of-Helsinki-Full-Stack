@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 
 function Header(props) {
   console.log(props)
@@ -12,8 +11,5 @@ function Header(props) {
   )
 }
 
-Header.propTypes = {
-
-}
 
 export default Header
